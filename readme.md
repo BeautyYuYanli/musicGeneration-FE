@@ -1,6 +1,6 @@
 # musicGeneration-FE
 
-It is a frontend for [musicGeneration](https://github.com/liuyunhaozz/musicGeneration).
+It is a frontend for [musicGeneration](https://github.com/liuyunhaozz/musicGeneration), based on [abc.js](https://github.com/paulrosen/abcjs).
 
 ## Usage
 
